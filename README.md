@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Possuo conhecimentos em VBA e atualmente estou me aperfeiçoando em Python.</strong>
+  🦄 Linguagens: <strong>Possuo conhecimentos em VBA e atualmente estou me aperfeiçoando em Python e SQL.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Também estou me aperfeiçoando em SQL e Power BI, confira meu  <a href="https://bit.ly/leopowerbi" > Portfólio de BI</a> .</strong>
+  💼 Ferramentas: <strong>Também estou me aperfeiçoando em Power BI, confira meu  <a href="https://bit.ly/leopowerbi" > Portfólio de BI</a> .</strong>
 </p>
 
 <p align="left">
